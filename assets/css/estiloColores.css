@@ -1,0 +1,16 @@
+div {
+    height: 200px;
+    width: 200px;
+}
+#colorAzul {
+    background-color: blue;
+}
+#colorRojo {
+    background-color: red;
+}
+#colorVerde {
+    background-color: green;
+}
+#colorAmarillo {
+    background-color: yellow;
+}
